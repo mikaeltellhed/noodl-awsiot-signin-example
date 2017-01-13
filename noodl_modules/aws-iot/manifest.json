@@ -1,0 +1,13 @@
+{
+  "main":"bundle.js",
+  "dependencies":[
+    "jsbn.js",
+    "jsbn2.js",
+    "sjcl.js",
+    "aws-cognito-sdk.min.js",
+    "amazon-cognito-identity.min.js",
+    "aws-sdk-2.7.21.min.js",
+    "moment.min.js",
+    "crypto-js.js"
+  ]
+}
